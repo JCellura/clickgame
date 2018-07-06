@@ -2,11 +2,11 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kimgomizzou.github.io/Clicky-Game",
+  "homepage": "http://jcellura.github.io/clickgame/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
