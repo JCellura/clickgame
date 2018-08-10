@@ -6,3 +6,7 @@
   justify-content: space-around;
   align-content: flex-start;
 }
+
+.card {
+  cursor: pointer;
+}
